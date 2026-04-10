@@ -11,13 +11,10 @@
 🧠 Tech Stack
 💻 Languages
 C++ Python JavaScript
-
 📊 Data Science & ML
 Pandas NumPy Scikit-learn Matplotlib
-
 🌐 Frontend Development
 HTML CSS JavaScript
-
 ⚙️ Tools
 Git GitHub VS Code Jupyter Notebook
 
