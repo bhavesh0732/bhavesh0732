@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hi, I'm Bhavesh
+🎓 Pre-Final Year Student | 💻 Aspiring Software Developer | 📊 Data Science Enthusiast
 
-<!--
-**bhavesh0732/bhavesh0732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🌱 Currently learning Data Structures & Algorithms + Machine Learning
+💡 Interested in Data Science & Frontend Development
+🧠 Focused on problem solving & core fundamentals
+🎯 Preparing for tech placements
+⚡ Consistent and disciplined learner
 
-Here are some ideas to get you started:
+🧠 Tech Stack
+💻 Languages
+C++ Python JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Data Science & ML
+Pandas NumPy Scikit-learn Matplotlib
+
+🌐 Frontend Development
+HTML CSS JavaScript
+
+⚙️ Tools
+Git GitHub VS Code Jupyter Notebook
+
+📌 Featured Projects
+🔹 Customer Churn Prediction (ML)
+➡️ Predicts customer churn using machine learning
+
+🔹 Virtual Mouse using Hand Gestures
+➡️ Control cursor using computer vision
+
+📫 Connect With Me
+💼 LinkedIn: www.linkedin.com/in/bhavesh-paliwal-40799330a
+📧 Email: bhavesh.paliwal0707@gmail.com
+
+🔹 Gurgaon House Price Prediction
+➡️ Predict house prices based on location & size
